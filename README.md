@@ -33,3 +33,10 @@ The SQL portion focused on:
 ![Dashboard](https://github.com/sheytrimble/spotify-2025-analysis/raw/main/tableau_dashboard.png)
 
 ## 📂 Files
+- `spotify_analysis.R`
+- `spotify_2025_analysis.sql`
+- `top_songs_2025.csv`
+
+## 🧠 Author
+Cheyenne Trimble
+
